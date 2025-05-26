@@ -1,0 +1,23 @@
+@media  (max-width: 720px){
+    .container .img .hero img{
+        width: 300px;
+    }
+    .navbar{
+        padding: 7px 0px;
+    }
+    .about .content .button{
+        margin-top: 10px;
+    }
+    .animated-text h2
+    {
+        font-size: 30px;
+    }
+    .animated-text .span-one{
+                font-size: 30px;
+
+ 
+            }
+    .header .container .h1{
+        font-size: 50px;
+    }
+}
